@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sklep</string>
+    <string name="lista_zamowien">Lista zamówień</string>
+    <string name="udostepnij">Udostępnij</string>
+    <string name="zapisz_ustawienia">Zapisz ustawienia</string>
+    <string name="o_programie">O programie</string>
+    <string name="autor_programu"><u>Autor: Kacper Mirowski</u></string>
+    <string name="imie_i_nazwisko_lub_nazwa_firmy">Imię i nazwisko lub nazwa firmy</string>
+    <string name="email_opcjonalne">Email (opcjonalne)</string>
+    <string name="telefon_opcjonalne">Telefon (opcjonalne)</string>
+    <string name="ilosc">ILOŚĆ</string>
+    <string name="dodatki">DODATKI</string>
+    <string name="myszka">Myszka</string>
+    <string name="klawiatura">Klawiatura</string>
+    <string name="kamera_internetowa">Kamera internetowa</string>
+    <string name="cena">Cena:</string>
+    <string name="zamow">Zamów</string>
+    <string name="zmien_jezyk">Zmień język</string>
+    <string name="wybierz_jezyk">Wybierz język</string>
+    <string name="jezyk">Język</string>
+</resources>

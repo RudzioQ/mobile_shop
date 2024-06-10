@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_orders"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/lista_zamowien"/>
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/o_programie"/>
+    <item
+        android:id="@+id/menu_language"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/jezyk"
+        />
+    <item
+        android:id="@+id/menu_save_settings"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="@string/zapisz_ustawienia"
+        />
+</menu>
